@@ -1,5 +1,8 @@
 # Lab08LINQinManhatten
 
+ARCHIVING DUE TO SECURITY WARNINGS
+  - I am archiving this since this was a project for a course I was taking. It has since served its' purpose and I don't see a reason to keep updating the project.
+
 ## Summary  
 This project takes json data from a separate file and then converts it to data which can be handled by C#.  
 The data contains a list of neighborhoods in New York.  
